@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi, I'm Lino - VK3EI
+Amateur radio operator and software builder. I write free Windows tools for the shack, all open source (MIT):
 
-<!--
-**lrizio/lrizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project:	What it does
+AntennaCalc:	Antenna design and simulation: 51 antenna types, built-in method-of-moments solver
+ShackDash:	Space weather, propagation, DX spots, satellites, contests, APRS in one window
+SDRduoDisplay:	Browser-based SDR receiver for the SDRplay RSPduo
+AudioProcessor:	Audio filter chain for radio amateurs
+FreeHamSoft:	Searchable catalogue of free ham radio software
+MiniVNATiny:	Independent driver and control program for the miniVNA Tiny
+73 de VK3EI

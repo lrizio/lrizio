@@ -15,4 +15,8 @@ FreeHamSoft:	Searchable catalogue of free ham radio software
 
 MiniVNATiny:	Independent driver and control program for the miniVNA Tiny
 
+RigDeck:	Dual-radio console for Icom and Yaesu rigs with spectrum scope
+
+Skippy:	Group video calls for up to 10 people with chat and file transfer
+
 73 de VK3EI

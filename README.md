@@ -19,4 +19,6 @@ RigDeck:	Dual-radio console for Icom and Yaesu rigs with spectrum scope
 
 Skippy:	Group video calls for up to 10 people with chat and file transfer
 
+NetworkScanner:	Web-based network scanner: ARP discovery plus nmap service and OS detection
+
 73 de VK3EI
